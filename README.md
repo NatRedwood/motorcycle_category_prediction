@@ -16,3 +16,17 @@ The pdf file [project_pdf](https://github.com/Nwojarnik/motorcycle_category_pred
 * further exploration refers to the increase of the number of hidden layers and deceasing the learning rate
 * the best model (with 75 hidden layers and the learning rate 0.000001) is further explored by splitting the training data into 20,40, 60 and 80%
 * the main conclusions relate to the fact that the large dataset requires the bigger size of model in general; the number of features (43) makes the model more robust and forces the model to be trained on more complex parameters (such as 20000 iterations); the model performs significantly better when the number of hidden layers is increased which means that the complexity of the dataset requires from the model high density.
+
+## Project visualizations
+
+The folder [plots](https://github.com/Nwojarnik/motorcycle_category_prediction/tree/main/motorcycle_category_prediction/plots) includes the heatmaps. Most of them are obvious and reasonably explainable like dry weight, ccm and rear tyre width.
+![motorcycle specifications correlations](https://github.com/Nwojarnik/motorcycle_category_prediction/blob/main/motorcycle_category_prediction/plots/corr_all_feats.pdf)
+
+
+Other tables such as explore the performance of different activation functions and model parameters:
+![plot of 9 trained models](https://github.com/Nwojarnik/motorcycle_category_prediction/blob/main/motorcycle_category_prediction/plots/results_9models.png)
+
+## Dedications
+
+I dedicate this project to my one and only love: 
+![Moto Guzzi III V7 Stone](one_and_only_love.jpg)
