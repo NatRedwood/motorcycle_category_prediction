@@ -1,4 +1,5 @@
 # Motorcycle Category Prediction
+## For all motorcycle riders
 
 The repo includes different ML models trained of motorcycle specifications data to predict the motorcycle category.
 
@@ -31,3 +32,7 @@ Other tables such as explore the performance of different activation functions a
 I dedicate this project to my one and only love:
 # Moto Guzzi III V7 Stone
 ![Moto Guzzi III V7 Stone](https://github.com/Nwojarnik/motorcycle_category_prediction/blob/main/motorcycle_category_prediction/one_and_only_love.jpg)
+
+## Appendix
+
+The 'Scooter' category was accepted exclusively on the base of the need for data balance.
