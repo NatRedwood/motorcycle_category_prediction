@@ -20,7 +20,7 @@ The pdf file [project_pdf](https://github.com/Nwojarnik/motorcycle_category_pred
 ## Project visualizations
 
 The folder [plots](https://github.com/Nwojarnik/motorcycle_category_prediction/tree/main/motorcycle_category_prediction/plots) includes the heatmaps. Most of them are obvious and reasonably explainable like dry weight, ccm and rear tyre width.
-![motorcycle specifications correlations](https://github.com/Nwojarnik/motorcycle_category_prediction/blob/main/motorcycle_category_prediction/plots/corr_all_feats.pdf)
+![motorcycle specifications correlations](https://github.com/Nwojarnik/motorcycle_category_prediction/blob/main/motorcycle_category_prediction/plots/corr_all_feats.png)
 
 
 Other tables such as explore the performance of different activation functions and model parameters:
@@ -29,4 +29,4 @@ Other tables such as explore the performance of different activation functions a
 ## Dedications
 
 I dedicate this project to my one and only love: 
-![Moto Guzzi III V7 Stone](one_and_only_love.jpg)
+![Moto Guzzi III V7 Stone](https://github.com/Nwojarnik/motorcycle_category_prediction/blob/main/motorcycle_category_prediction/one_and_only_love.jpg)
