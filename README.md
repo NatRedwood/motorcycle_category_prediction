@@ -26,7 +26,8 @@ The folder [plots](https://github.com/Nwojarnik/motorcycle_category_prediction/t
 Other tables such as explore the performance of different activation functions and model parameters:
 ![plot of 9 trained models](https://github.com/Nwojarnik/motorcycle_category_prediction/blob/main/motorcycle_category_prediction/plots/results_9models.png)
 
-## Dedications
+## Dedication
 
-I dedicate this project to my one and only love: 
+I dedicate this project to my one and only love:
+# Moto Guzzi III V7 Stone
 ![Moto Guzzi III V7 Stone](https://github.com/Nwojarnik/motorcycle_category_prediction/blob/main/motorcycle_category_prediction/one_and_only_love.jpg)
